@@ -38,7 +38,7 @@ plugins:
   - jekyll-environment-variables
 
 include:
-  - _static
+  - static
 exclude:
   - Gemfile
   - Gemfile.lock
