@@ -6,7 +6,7 @@ homepage:
   show_call_box: true
 logo:
   mobile: images/logo/logo-mobile.svg
-  desktop: images/logo.svg
+  desktop: images/square-owl.svg
   desktop_height: 36px
 footer:
   copyright_text: >-
@@ -36,7 +36,6 @@ sass:
   precision: 10
 plugins:
   - jekyll-environment-variables
-
 include:
   - static
 exclude:
